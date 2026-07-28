@@ -1,0 +1,27 @@
+.DS_Store
+
+# Local environment
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# AI model artifacts
+models/
+checkpoints/
+.cache/
+
+# Generated audio exports
+exports/
+generated/
+outputs/
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aiff
+*.aac
+
+# Archives from unrelated local setup packages
+*.zip
