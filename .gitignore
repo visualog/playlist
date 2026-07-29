@@ -3,11 +3,13 @@
 # Local environment
 .env
 .venv/
+.venv-ace-step/
 venv/
 __pycache__/
 *.pyc
 
 # AI model artifacts
+tools/
 models/
 checkpoints/
 .cache/
